@@ -1,4 +1,3 @@
-<!-- [![npm version](https://badge.fury.io/js/angular2-expandable-list.svg)](https://badge.fury.io/js/angular2-expandable-list) -->
 
 # filly
 
@@ -9,7 +8,7 @@
 -Angular-style pipes and params
   -Built-in substr and slice pipes
   -Optionally add your own custom pipes
--Support multiple bracket depths
+-Support multiple brace depths
 -Set default options (presets)
 -Zero runtime dependencies
 
