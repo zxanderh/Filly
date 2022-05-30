@@ -1,16 +1,16 @@
-
+[![npm version](https://badge.fury.io/js/filly.svg)](https://badge.fury.io/js/filly)
 # filly
 
 > Small, extensible, Angular-style string templating
 
 ## Features
 
--Angular-style pipes and params
-  -Built-in substr and slice pipes
-  -Optionally add your own custom pipes
--Support multiple brace depths
--Set default options (presets)
--Zero runtime dependencies
+- Angular-style pipes and params
+  - Built-in substr and slice pipes
+  - Optionally add your own custom pipes
+- Support multiple brace depths
+- Set default options (presets)
+- Zero runtime dependencies
 
 ## Usage
 
