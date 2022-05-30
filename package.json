@@ -1,0 +1,21 @@
+{
+  "name": "filly",
+  "version": "1.0.0",
+  "description": "Small, extensible, Angular-style string templating",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ."
+  },
+  "keywords": [
+    "templates",
+    "interpolation"
+  ],
+  "author": "Zane Huston",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "eslint": "^8.16.0",
+    "eslint-plugin-mocha": "^10.0.5",
+    "mocha": "^10.0.0"
+  }
+}
