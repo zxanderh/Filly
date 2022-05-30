@@ -1,6 +1,6 @@
 {
   "name": "filly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small, extensible, Angular-style string templating",
   "main": "index.js",
   "scripts": {
